@@ -1,0 +1,133 @@
+a{
+    color: white;
+}
+h1 {
+    display: inline;
+}
+img{
+    margin: 0px 10px 20px 45px;
+}
+.h2 {
+    margin: -10px 0px 0px 110px;
+    font-weight: 300;
+}
+.sidebar{
+    background-color: #cc4651;
+    width: 275px;
+    margin: auto;
+    padding: 10px;
+}
+prov-list{
+    float: left;
+    width: 400px;
+    position: relative;
+    max-height: 500px;
+    overflow: auto;
+}
+prov-item{
+    padding: 5px;
+    float: left;
+    width: 400px;
+    display: block;
+}
+@media screen and (max-width: 900px) {
+    .bd-example {
+        width: 50%;
+        margin: auto;
+    }
+    .flex-column {
+        width: 100%;
+    }
+
+}
+
+
+.section-network {
+    background-color: white;
+    margin-top: -170px;
+    padding-top: 240px;
+    padding-bottom: 0px;
+  }
+  
+  .section-network h2 {
+    font-family: 'playfair Display',serif;
+    font-weight: bold;
+    font-size: 40px;
+  }
+  
+  .section-network img {
+    max-width: 100%;
+    margin: -71px 10px 20px 45px;
+  }
+
+  .section-network-2 {
+    background-color: white;
+    margin-top: -266px;
+    padding-top: 240px;
+    padding-bottom: 50px;
+  }
+  
+  .section-network-2 h2 {
+    font-family: 'playfair Display',serif;
+    font-weight: bold;
+    font-size: 34px;
+  }
+  .section-network-2 p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    text-align: justify;
+  }
+  
+  .section-network-2 img {
+    max-width: 100%;
+     margin:-38px 0px 0px -106px;
+  }
+
+
+  .section-network-4 {
+    background-color: white;
+    margin-top: -266px;
+    padding-top: 240px;
+    padding-bottom: 0PX;
+  }
+  
+  .section-network-4 h2 {
+    font-family: 'playfair Display',serif;
+    font-weight: bold;
+    font-size: 34px;
+  }
+  .section-network-4 p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    text-align: justify;
+  }
+  
+  .section-network-4 img {
+    max-width: 100%;
+     margin:0px -95px 0px -75px
+  }
+
+
+  
+  .section-content-3 {
+    background-color: white;
+    margin-top:  -236px;
+    padding-top: 240px;
+    padding-bottom: 93px;
+  }
+  
+  .section-content-3 h2 {
+    font-family: 'playfair Display',serif;
+    font-weight: bold;
+    font-size: 34px;
+  }
+  .section-content-3 p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    text-align: justify;
+  }
+  
+  .section-content-3 img {
+    max-width: 100%;
+     margin:0px -95px 0px -75px
+  }
